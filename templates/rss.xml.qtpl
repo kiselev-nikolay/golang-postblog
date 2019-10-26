@@ -1,0 +1,22 @@
+{% func RSS(c Postblog) %}
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>{%s c.Site.Name %}</title>
+    <description>{%s c.Site.Description %}</description>
+    <link>{%s c.Site.Link %}</link>
+    <atom:link href="{%s c.Site.Link %}/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>{%v c.BuildTime %}</pubDate>
+    <lastBuildDate>{%v c.BuildTime %}</lastBuildDate>
+    <generator>MachineandmePostblog (golang version)</generator>
+      <item>
+        <title>{{article.title}}</title>
+        <description>{{article.text}}</description>
+        <pubDate>{{article.publication}}</pubDate>
+        <link>{{article.link}}</link>
+        <guid isPermaLink="true">{{article.link}}</guid>
+        <category>{{category}}</category>
+        <category>{{category2}}</category>
+      </item>
+  </channel>
+</rss>
+{% endfunc %}

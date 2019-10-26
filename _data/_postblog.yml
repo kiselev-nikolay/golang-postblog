@@ -1,0 +1,21 @@
+asset:
+  cover: cover.png
+  favicon: favicon.png
+site:
+  author: Postblog team
+  description: The kickerly fast site management
+  link: https://machineand.me
+  name: Postblog
+  script_js: console.log("Analytics is not used");
+navigation:
+  - name: Github
+    link: https://github.com/machineandme/postblog
+  - name: Pypi
+    link: https://pypi.org/project/postblog/
+theme:
+  danger: '#f14668'
+  info: '#3298dc'
+  link: '#3273dc'
+  primary: '#633fea'
+  success: '#48c774'
+  warning: '#ffdd57'

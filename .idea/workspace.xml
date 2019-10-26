@@ -1,7 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64c6c9cc-2e30-4e16-90b4-39f363498678" name="Default Changelist" comment="" />
+    <list default="true" id="64c6c9cc-2e30-4e16-90b4-39f363498678" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/nkl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/_page.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/_postblog.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/admin/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/cover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/sass/bulma.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/sass/sass/base/_all.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/sass/sass/base/generic.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/sass/sass/base/helpers.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/sass/sass/base/minireset.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/sass/sass/components/_all.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/sass/sass/components/breadcrumb.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/sass/sass/components/card.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/sass/sass/components/dropdown.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/sass/sass/components/level.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/sass/sass/components/list.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/sass/sass/components/media.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/sass/sass/components/menu.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/sass/sass/components/message.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/sass/sass/components/modal.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/sass/sass/components/navbar.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/sass/sass/components/pagination.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/sass/sass/components/panel.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/sass/sass/components/tabs.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/sass/sass/elements/_all.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/sass/sass/elements/box.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/sass/sass/elements/button.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/sass/sass/elements/container.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/sass/sass/elements/content.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/sass/sass/elements/form.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/sass/sass/elements/icon.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/sass/sass/elements/image.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/sass/sass/elements/notification.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/sass/sass/elements/other.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/sass/sass/elements/progress.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/sass/sass/elements/table.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/sass/sass/elements/tag.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/sass/sass/elements/title.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/sass/sass/form/_all.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/sass/sass/form/checkbox-radio.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/sass/sass/form/file.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/sass/sass/form/input-textarea.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/sass/sass/form/select.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/sass/sass/form/shared.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/sass/sass/form/tools.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/sass/sass/grid/_all.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/sass/sass/grid/columns.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/sass/sass/grid/tiles.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/sass/sass/layout/_all.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/sass/sass/layout/footer.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/sass/sass/layout/hero.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/sass/sass/layout/section.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/sass/sass/utilities/_all.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/sass/sass/utilities/animations.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/sass/sass/utilities/controls.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/sass/sass/utilities/derived-variables.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/sass/sass/utilities/functions.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/sass/sass/utilities/initial-variables.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/sass/sass/utilities/mixins.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/style_font.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/web_icon144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/web_icon168.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/web_icon192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/web_icon48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/web_icon72.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/web_icon96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buildSass.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/index.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postblog.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/footer.html.qtpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/footer.html.qtpl.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/head.html.qtpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/head.html.qtpl.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/manifest.json.qtpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/manifest.json.qtpl.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/nav.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/news.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/objects.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/rss.xml.qtpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/rss.xml.qtpl.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_world.go" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,13 +104,32 @@
       </list>
     </option>
   </component>
-  <component name="GOROOT" path="$USER_HOME$/go" />
+  <component name="GOROOT" path="$GOROOT$" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1SjMs4T6Vjen0eLF30RkjluclzJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates" />
+      <recent name="$PROJECT_DIR$/gobjects" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/_src" />
+      <recent name="$PROJECT_DIR$/SOURCE_ASSETS" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -45,21 +153,40 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build hello_world.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
       <module name="golang-postblog" />
       <working_directory value="$PROJECT_DIR$/" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/hello_world.go" />
+      <kind value="DIRECTORY" />
+      <filePath value="$PROJECT_DIR$/main.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build hello_world.go" />
+        <item itemvalue="Go Build.go build" />
       </list>
     </recent_temporary>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.j2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

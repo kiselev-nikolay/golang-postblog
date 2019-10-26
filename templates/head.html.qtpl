@@ -1,0 +1,33 @@
+{% func Head(base string, c Postblog, p Page) %}
+<meta charset="UTF-8">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="author" content="{%s c.Site.Author %}">
+<meta name="document-state" content="Dynamic">
+<meta name="robots" content="index,follow">
+<meta name="robots" content="all">
+<meta name="theme-color" content="{%s c.Theme.Primary %}">
+<link rel="icon" type="image/png" href="{%s base %}assets/{%s c.Asset.Favicon %}" />
+<link rel="manifest" href="{%s base %}assets/manifest.json">
+<title>{%s p.Name %} | {%s c.Site.Name %}</title>
+<meta name="description" content="{%s c.Site.Description %}">
+<meta itemprop="name" content="{%s c.Site.Name %}">
+<meta itemprop="description" content="{%s c.Site.Description %}">
+<meta itemprop="image" content="{%s c.Site.Link %}/assets/{%s c.Asset.Cover %}">
+<meta property="og:url" content="{%s c.Site.Link %}">
+<meta property="og:type" content="website">
+<meta property="og:title" content="{%s p.Name %} | {%s c.Site.Name %}">
+<meta property="og:site_name" content="{%s c.Site.Name %}">
+<meta property="og:description" content="{%s c.Site.Description %}">
+<meta property="og:image" content="{%s c.Site.Link %}/assets/{%s c.Asset.Cover %}">
+<meta name="twitter:url" content="{%s c.Site.Link %}">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="{%s p.Name %} | {%s c.Site.Name %}">
+<meta name="twitter:site" content="{%s c.Site.Name %}">
+<meta name="twitter:description" content="{%s c.Site.Description %}">
+<meta property="twitter:image" content="{%s c.Site.Link %}/assets/{%s c.Asset.Cover %}">
+<link rel="stylesheet" href="{%s base %}assets/style.css">
+<link rel="stylesheet" href="{%s base %}assets/style_font.css">
+<link rel="alternate" type="application/rss+xml" title="{%s c.Site.Name %}" href="{%s c.Site.Link %}/feed.xml">
+<link rel="canonical" href="{%s c.Site.Link %}">
+{% endfunc %}

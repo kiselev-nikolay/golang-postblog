@@ -1,0 +1,22 @@
+buildtime: 2019-10-26T15:02:26.420808924+03:00
+asset:
+  cover: cover.png
+  favicon: favicon.png
+site:
+  name: Postblog
+  author: Postblog team
+  description: The kickerly fast site management
+  link: https://machineand.me
+  script_js: console.log("Analytics is not used");
+navigation:
+- name: Github
+  link: https://github.com/machineandme/postblog
+- name: Pypi
+  link: https://pypi.org/project/postblog/
+theme:
+  primary: '#633fea'
+  info: '#3298dc'
+  link: '#3273dc'
+  success: '#48c774'
+  warning: '#ffdd57'
+  danger: '#f14668'

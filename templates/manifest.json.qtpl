@@ -1,0 +1,38 @@
+{% func Webmanifest(c Postblog) %}
+{
+  "name": "{%s c.Site.Name %}",
+  "short_name": "{%s c.Site.Name %}",
+  "description": "{%s c.Site.Description %}",
+  "start_url": "{%s c.Site.Link %}",
+  "display": "standalone",
+  "background_color": "{%s c.Theme.Primary %}",
+  "icons": [{
+    "src": "/assets/web_icon48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "/assets/web_icon72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "/assets/web_icon96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "/assets/web_icon144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "/assets/web_icon168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "/assets/web_icon192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }],
+  "related_applications": [{
+    "platform": "web"
+  }]
+}
+{% endfunc %}
